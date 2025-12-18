@@ -48,17 +48,17 @@ Akses: http://localhost:8000
 
 ### Login dengan akun yang sudah ada:
 - **Email**: budi@kampus.ac.id
-- **Password**: password123
+- **Password**: password
 
 atau
 
 - **Email**: siti@kampus.ac.id
-- **Password**: password123
+- **Password**: password
 
 atau
 
 - **Email**: ahmad@kampus.ac.id (Anak Rektor - Data Rahasia!)
-- **Password**: password123
+- **Password**: password
 
 ### Atau Register Akun Baru:
 Klik link "Daftar" di halaman login
@@ -127,5 +127,5 @@ Klik link "Daftar" di halaman login
 - Cek nama database sudah benar
 
 ### Password tidak cocok
-- Password default untuk semua akun demo: **password123**
+- Password default untuk semua akun demo: **password**
 - Password di-hash dengan `password_hash()` PHP
